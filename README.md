@@ -1,5 +1,9 @@
 <h1><strog>To-Do-List</strog></h1>
 
+<p align="center">
+  <img alt="To-Do-List" src="to-do-list.jpg" width="40%">
+</p>
+
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -11,6 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Projeto
 
 To Do List é uma aplicação web simples para guardar as suas tarefas diárias de forma a não perder nada.
+
 ## Contribuir
 
 - Faça um fork desse repositório;
@@ -20,4 +25,10 @@ To Do List é uma aplicação web simples para guardar as suas tarefas diárias 
 Esse projeto foi desenvolvido com os ensinamentos da rocketseat
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-Feito por  [Wandson Gomes](https://www.linkedin.com/in/wandson-gomes-a759ba51/) 💻
+Este projeto foi desenvolvido com ❤️ por **[@Wandson Gomes](https://www.linkedin.com/in/wandsony/)** 💻
+
+<div align="center">
+
+   [![Linkedin Badge](https://img.shields.io/badge/-Wandson%20Gomes-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wandsony/)](https://www.linkedin.com/in/wandsony/)
+
+   </div>
